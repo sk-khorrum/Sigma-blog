@@ -1,0 +1,51 @@
+[
+  {
+    "id": 1,
+    "name": "Admin",
+    "email": "admin@smartblog.com",
+    "avatar": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=100&h=100&fit=crop&crop=face",
+    "bio": "Platform Administrator and Lead Developer with over 10 years of experience in web development and content management systems.",
+    "verified": true,
+    "social": {
+      "twitter": "@smartblog_admin",
+      "linkedin": "smartblog-admin",
+      "github": "smartblog"
+    },
+    "joinedAt": "2023-01-01T00:00:00Z",
+    "postsCount": 15,
+    "website": "https://smartblog.com"
+  },
+  {
+    "id": 2,
+    "name": "Sarah Johnson",
+    "email": "sarah@example.com",
+    "avatar": "https://images.unsplash.com/photo-1494790108755-2616b612b786?w=100&h=100&fit=crop&crop=face",
+    "bio": "Senior Frontend Developer and Tech Writer passionate about creating accessible and performant web applications.",
+    "verified": true,
+    "social": {
+      "twitter": "@sarahjdev",
+      "linkedin": "sarah-johnson-dev",
+      "github": "sarahj"
+    },
+    "joinedAt": "2023-03-15T00:00:00Z",
+    "postsCount": 8,
+    "website": "https://sarahjohnson.dev"
+  },
+  {
+    "id": 3,
+    "name": "Mike Chen",
+    "email": "mike@example.com",
+    "avatar": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=100&h=100&fit=crop&crop=face",
+    "bio": "CSS Specialist and UI/UX Designer focused on creating beautiful, responsive web experiences.",
+    "verified": true,
+    "social": {
+      "twitter": "@mikechen_css",
+      "linkedin": "mike-chen-design",
+      "dribbble": "mikechen"
+    },
+    "joinedAt": "2023-05-20T00:00:00Z",
+    "postsCount": 12,
+    "website": "https://mikechen.design"
+  }
+]
+

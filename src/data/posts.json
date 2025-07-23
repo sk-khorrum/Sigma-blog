@@ -1,0 +1,63 @@
+[
+  {
+    "id": 1,
+    "title": "Welcome to Smart Blog Platform",
+    "slug": "welcome-to-smart-blog-platform",
+    "excerpt": "Discover the features of our modern, SEO-friendly blog platform with multi-language support and interactive features.",
+    "content": "Welcome to Smart Blog Platform, a modern and feature-rich blogging solution designed for the digital age. Our platform combines cutting-edge technology with user-friendly design to create an exceptional blogging experience.\n\nKey features include:\n- SEO optimization for better search engine visibility\n- Mobile-responsive design that works on all devices\n- Multi-language support with Google Translate integration\n- Author profiles with verification badges\n- Local storage-based comment system\n- Easy post management without touching code\n\nWhether you\"re a seasoned blogger or just starting your journey, Smart Blog Platform provides all the tools you need to create engaging content and build a thriving online community.",
+    "author": {
+      "name": "sk khorrum",
+      "avatar": "https://sk-khorrum-ceo.vercel.app/assets/img/about.jpg",
+      "bio": "Platform Administrator and Lead Developer",
+      "verified": true
+    },
+    "publishedAt": "2024-07-23T10:00:00Z", 
+    "updatedAt": "2024-07-23T10:00:00Z", 
+    "tags": ["platform", "welcome", "features"],
+    "category": "Announcements",
+    "readTime": 3, 
+    "featured": true, 
+    "image": "https://example.com/your-post-image.jpg" 
+  },
+  {
+    "id": 2,
+    "title": "Building Responsive Designs with Modern CSS",
+    "slug": "building-responsive-designs-with-modern-css",
+    "excerpt": "Learn how to create beautiful, responsive web designs using the latest CSS features and best practices.",
+    "content": "This post explores the fundamentals of responsive web design and how modern CSS techniques can help you build stunning, adaptable layouts. We\"ll cover topics like Flexbox, Grid, media queries, and more.\n\nResponsive design is no longer optional in today\"s web development landscape. With users accessing websites from a variety of devices, from smartphones to large desktop monitors, it\"s crucial that your designs adapt seamlessly to different screen sizes.\n\nIn this comprehensive guide, we\"ll explore the latest CSS features and best practices that will help you create beautiful, responsive web designs that work flawlessly across all devices.",
+    "author": {
+      "name": "Mike Chen",
+      "avatar": "https://randomuser.me/api/portraits/men/32.jpg",
+      "bio": "Web Designer and Frontend Developer",
+      "verified": false
+    },
+    "publishedAt": "2024-01-13T10:00:00Z",
+    "updatedAt": "2024-01-13T10:00:00Z",
+    "tags": ["css", "responsive design", "web design", "frontend"],
+    "category": "Design",
+    "readTime": 7,
+    "featured": true,
+    "image": "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+  },
+  {
+    "id": 3,
+    "title": "The Future of Web Development",
+    "slug": "the-future-of-web-development",
+    "excerpt": "Exploring emerging trends and technologies that are shaping the future of web development in 2024 and beyond.",
+    "content": "The web development landscape is constantly evolving, with new technologies and frameworks emerging at a rapid pace. As we look towards the future, several key trends are shaping how we build and interact with web applications.\n\nFrom the rise of AI-powered development tools to the growing importance of performance optimization, the future of web development promises to be both exciting and challenging. In this article, we\"ll explore the key trends that are defining the next generation of web development.\n\nWhether you\"re a seasoned developer or just starting your journey, understanding these trends will help you stay ahead of the curve and build better web experiences for users around the world.",
+    "author": {
+      "name": "Sarah Johnson",
+      "avatar": "https://randomuser.me/api/portraits/women/44.jpg",
+      "bio": "Senior Full-Stack Developer and Tech Writer",
+      "verified": true
+    },
+    "publishedAt": "2024-01-14T10:00:00Z",
+    "updatedAt": "2024-01-14T10:00:00Z",
+    "tags": ["web development", "technology", "future", "trends"],
+    "category": "Technology",
+    "readTime": 5,
+    "featured": false,
+    "image": "https://images.unsplash.com/photo-1498050108023-c5249f4df085?q=80&w=2072&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+  }
+]
+
