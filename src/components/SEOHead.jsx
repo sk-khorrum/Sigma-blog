@@ -7,7 +7,7 @@ const SEOHead = ({ post, isHomePage = false }) => {
       const structuredData = {
         "@context": "https://schema.org",
         "@type": "WebSite",
-        "name": "Smart Blog",
+        "name": "Sigma Blog",
         "description": "A modern, SEO-friendly blog platform with multi-language support, author profiles, and interactive features",
         "url": window.location.origin,
         "potentialAction": {
@@ -20,7 +20,7 @@ const SEOHead = ({ post, isHomePage = false }) => {
         },
         "publisher": {
           "@type": "Organization",
-          "name": "Smart Blog",
+          "name": "Sigma Blog",
           "logo": {
             "@type": "ImageObject",
             "url": window.location.origin + "/favicon.ico"
@@ -52,7 +52,7 @@ const SEOHead = ({ post, isHomePage = false }) => {
         },
         "publisher": {
           "@type": "Organization",
-          "name": "Smart Blog",
+          "name": "Sigma Blog",
           "logo": {
             "@type": "ImageObject",
             "url": window.location.origin + "/favicon.ico"
