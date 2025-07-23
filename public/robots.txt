@@ -1,0 +1,22 @@
+User-agent: *
+Allow: /
+
+# Sitemap
+Sitemap: https://your-domain.com/sitemap.xml
+
+# Google News
+User-agent: Googlebot-News
+Allow: /
+
+# Crawl delay
+Crawl-delay: 1
+
+# Disallow admin areas (if any)
+Disallow: /admin/
+Disallow: /private/
+
+# Allow all content for search engines
+Allow: /posts/
+Allow: /categories/
+Allow: /authors/
+
