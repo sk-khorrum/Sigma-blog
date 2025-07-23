@@ -13,7 +13,7 @@ const Header = ({ onLoginClick, currentUser, onLogout }) => {
         <div className="flex justify-between items-center h-16">
           {/* Logo */}
           <div className="flex items-center">
-            <h1 className="text-2xl font-bold text-primary">Smart Blog</h1>
+            <h1 className="text-2xl font-bold text-primary">SIGMA BLOGS</h1>
           </div>
 
           {/* Desktop Navigation */}
@@ -54,7 +54,7 @@ const Header = ({ onLoginClick, currentUser, onLogout }) => {
             {currentUser ? (
               <div className="flex items-center space-x-2">
                 <img 
-                  src={currentUser.avatar || "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=32&h=32&fit=crop&crop=face"} 
+                  src={currentUser.avatar || "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTrnONuTzkD6Me_e0kdmMpaSqismgrzF6Kjh8SD7EwlPzZSLWE0igG2KE&s=10"} 
                   alt={currentUser.name}
                   className="w-8 h-8 rounded-full"
                 />
