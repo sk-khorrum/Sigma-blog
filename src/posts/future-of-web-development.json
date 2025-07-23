@@ -1,0 +1,21 @@
+{
+  "id": 3,
+  "title": "The Future of Web Development",
+  "slug": "the-future-of-web-development",
+  "excerpt": "Exploring emerging trends and technologies that are shaping the future of web development in 2024 and beyond.",
+  "content": "The web development landscape is constantly evolving, with new technologies and frameworks emerging at a rapid pace. As we look towards the future, several key trends are shaping how we build and interact with web applications.\n\nFrom the rise of AI-powered development tools to the growing importance of performance optimization, the future of web development promises to be both exciting and challenging. In this article, we'll explore the key trends that are defining the next generation of web development.\n\nWhether you're a seasoned developer or just starting your journey, understanding these trends will help you stay ahead of the curve and build better web experiences for users around the world.",
+  "author": {
+    "name": "Sarah Johnson",
+    "avatar": "https://randomuser.me/api/portraits/women/44.jpg",
+    "bio": "Senior Full-Stack Developer and Tech Writer",
+    "verified": true
+  },
+  "publishedAt": "2024-01-14T10:00:00Z",
+  "updatedAt": "2024-01-14T10:00:00Z",
+  "tags": ["web development", "technology", "future", "trends"],
+  "category": "Technology",
+  "readTime": 5,
+  "featured": false,
+  "image": "https://images.unsplash.com/photo-1498050108023-c5249f4df085?q=80&w=2072&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+}
+

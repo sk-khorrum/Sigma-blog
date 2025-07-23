@@ -1,0 +1,21 @@
+{
+  "id": 2,
+  "title": "Building Responsive Designs with Modern CSS",
+  "slug": "building-responsive-designs-with-modern-css",
+  "excerpt": "Learn how to create beautiful, responsive web designs using the latest CSS features and best practices.",
+  "content": "This post explores the fundamentals of responsive web design and how modern CSS techniques can help you build stunning, adaptable layouts. We'll cover topics like Flexbox, Grid, media queries, and more.\n\nResponsive design is no longer optional in today's web development landscape. With users accessing websites from a variety of devices, from smartphones to large desktop monitors, it's crucial that your designs adapt seamlessly to different screen sizes.\n\nIn this comprehensive guide, we'll explore the latest CSS features and best practices that will help you create beautiful, responsive web designs that work flawlessly across all devices.",
+  "author": {
+    "name": "Mike Chen",
+    "avatar": "https://randomuser.me/api/portraits/men/32.jpg",
+    "bio": "Web Designer and Frontend Developer",
+    "verified": false
+  },
+  "publishedAt": "2024-01-13T10:00:00Z",
+  "updatedAt": "2024-01-13T10:00:00Z",
+  "tags": ["css", "responsive design", "web design", "frontend"],
+  "category": "Design",
+  "readTime": 7,
+  "featured": true,
+  "image": "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+}
+
