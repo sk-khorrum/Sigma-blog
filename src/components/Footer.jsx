@@ -7,7 +7,7 @@ const Footer = () => {
         <div className="grid grid-cols-1 md:grid-cols-4 gap-8">
           {/* Brand */}
           <div className="col-span-1 md:col-span-2">
-            <h3 className="text-2xl font-bold mb-4">Smart Blog</h3>
+            <h3 className="text-2xl font-bold mb-4">SIGMA BLOGS</h3>
             <p className="text-gray-300 mb-4 max-w-md">
               A modern, SEO-friendly blog platform with multi-language support, 
               author profiles, and interactive features. Built for the digital age.
@@ -53,10 +53,10 @@ const Footer = () => {
         <div className="border-t border-gray-800 mt-8 pt-8">
           <div className="flex flex-col md:flex-row justify-between items-center">
             <p className="text-gray-400 text-sm">
-              © 2024 Smart Blog. All rights reserved.
+              © SIGMA BLOGS. All rights reserved.
             </p>
             <p className="text-gray-400 text-sm flex items-center mt-2 md:mt-0">
-              Made with <Heart className="h-4 w-4 mx-1 text-red-500" /> for the community
+              Made with <Heart className="h-4 w-4 mx-1 text-red-500" /> SK KHORRUM 
             </p>
           </div>
         </div>
