@@ -1,0 +1,20 @@
+{
+  "id": 4,
+  "title": "Welcome to Smart Blog Platform",
+  "slug": "welcome-to-smart-blog-platform",
+  "excerpt": "Discover the features of our modern, SEO-friendly blog platform with multi-language support and interactive features.",
+  "content": "Welcome to Smart Blog Platform, a modern and feature-rich blogging solution designed for the digital age. Our platform combines cutting-edge technology with user-friendly design to create an exceptional blogging experience.\n\nKey features include:\n- SEO optimization for better search engine visibility\n- Mobile-responsive design that works on all devices\n- Multi-language support with Google Translate integration\n- Author profiles with verification badges\n- Local storage-based comment system\n- Easy post management without touching code\n\nWhether you\"re a seasoned blogger or just starting your journey, Smart Blog Platform provides all the tools you need to create engaging content and build a thriving online community.",
+  "author": {
+    "name": "sk khorrum",
+    "avatar": "https://sk-khorrum-ceo.vercel.app/assets/img/about.jpg",
+    "bio": "Platform Administrator and Lead Developer",
+    "verified": true
+  },
+  "publishedAt": "2024-07-23T10:00:00Z", 
+  "updatedAt": "2024-07-23T10:00:00Z", 
+  "tags": ["platform", "welcome", "features"],
+  "category": "Announcements",
+  "readTime": 3, 
+  "featured": true, 
+  "image": "https://example.com/your-post-image.jpg" 
+}
